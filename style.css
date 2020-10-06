@@ -1,0 +1,67 @@
+
+
+main h2 {
+    font-family: cursive, serif, sans-serif;
+}   
+
+
+#main {
+    
+    border-radius: 3%;
+    background-color: #c89666;
+    
+}
+
+h2 {
+    
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: -10px
+}
+
+p {
+    text-align: center;
+    
+     
+}
+
+#tribute-info {
+    font-family: cursive,serif, sans-serif;
+    text-align: justify;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+}
+
+#img-div {
+    background: #12343b;
+    text-align: center;
+    padding-top: 20px;
+    
+    border-radius: 10%;
+    
+    
+}
+
+#img-caption {
+    font-size: 130%;
+    font-style: italic;
+    margin-top: 5px;
+}
+
+#image {
+    
+    display: block;
+    width: 50%;
+    max-width: 60%;
+    max-height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20%;
+     
+}
+
+blockquote {
+    text-align: center;
+    font-style: italic;
+}
